@@ -1,0 +1,23 @@
+
+ body {
+    font-size: 20pt;
+ }
+ #myDiv {
+    float: left;
+    width: 200px;
+            }
+.floatLeftElements {
+    float: left;
+    width: 200px;
+            }
+.bigText {
+    font-size: 40pt;
+    color:  crimson;
+    font-weight: bold;
+            }
+.italics{
+    font-style: italic;
+            }
+#testDiv {
+    font-size: 40pt;
+        }
